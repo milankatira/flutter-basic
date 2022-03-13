@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(ch_3 LANGUAGES CXX)
+project(ch_4 LANGUAGES CXX)
 
-set(BINARY_NAME "ch_3")
+set(BINARY_NAME "ch_4")
 
 cmake_policy(SET CMP0063 NEW)
 
